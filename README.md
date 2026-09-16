@@ -6,6 +6,10 @@ This project analyzes sales data to understand business performance and generate
 
 The analysis focuses on revenue performance, product contribution, regional performance, and salesperson effectiveness through an interactive dashboard.
 
+## Dashboard Preview
+
+![Sales Dashboard](sales-dashboard.PNG)
+
 ## Objectives
 
 The goal of this project is to:
